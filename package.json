@@ -1,0 +1,23 @@
+{
+  "name": "playserver-js-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/PlayServerApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sctnightcore/PlayServer-Js-Package.git"
+  },
+  "author": "sctnightcore",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sctnightcore/PlayServer-Js-Package/issues"
+  },
+  "homepage": "https://github.com/sctnightcore/PlayServer-Js-Package#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "axios-file": "^1.0.14"
+  }
+}
