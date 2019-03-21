@@ -12,6 +12,7 @@ Examples
 --------
 
 ```javascript
+const PlayServer = require('playserver-js');
 async function main() {
   let checksum = await PlayServer.get.checksum(url); // url ex : RoFreedom-15505
   let saveimg = await PlayServer.save.checksum('img', checksum); //folderpath, checksum
